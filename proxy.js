@@ -1,5 +1,4 @@
-const net = require('net'),
-http = require('http'),
+const http = require('http'),
 url = require('url'),
 logFile = require('./CreateLog'),
 fs = require('fs'),
